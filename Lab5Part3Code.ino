@@ -31,10 +31,3 @@ void loop() {
     digitalWrite(LED_BUILTIN, LOW);   // turn the LED off by making the voltage LOW
   }
 }
-
-/* 
-const int PWMB=10; //speed control pin on the motor driver for the left motor
-const int BIN2=9; //control pin 2 on the motor driver for the left motor
-const int BIN1=8n // control pin 1 on the motor driver for the left motor
-*/
-
